@@ -1,0 +1,1068 @@
+{
+  "CityAttraction.dll": {
+    "C:\\VS\\Attraction\\CityAttraction\\Program.cs": {
+      "CityAttraction.Program": {
+        "System.Void CityAttraction.Program::Main()": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\VS\\Attraction\\CityAttraction\\Methods\\CityMethods.cs": {
+      "CityAttraction.Methods.CityMethods": {
+        "System.String CityAttraction.Methods.CityMethods::ChooseCity(System.Collections.Generic.List`1<CityAttraction.Cities.City>)": {
+          "Lines": {
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "45": 0,
+            "46": 0
+          },
+          "Branches": [
+            {
+              "Line": 16,
+              "Offset": 57,
+              "EndOffset": 28,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 57,
+              "EndOffset": 59,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 22,
+              "Offset": 95,
+              "EndOffset": 97,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 22,
+              "Offset": 95,
+              "EndOffset": 108,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 38,
+              "Offset": 179,
+              "EndOffset": 181,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 38,
+              "Offset": 179,
+              "EndOffset": 189,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void CityAttraction.Methods.CityMethods::ShowCityDescription(System.Collections.Generic.List`1<CityAttraction.Cities.City>,System.Collections.Generic.List`1<CityAttraction.Attractions.Attraction>,System.String,System.Collections.Generic.List`1<CityAttraction.Attractions.Zoos.Zoo>,System.Collections.Generic.List`1<CityAttraction.Attractions.Museums.Museum>,System.Collections.Generic.List`1<CityAttraction.Attractions.Churches.Church>)": {
+          "Lines": {
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0
+          },
+          "Branches": [
+            {
+              "Line": 56,
+              "Offset": 62,
+              "EndOffset": 64,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 56,
+              "Offset": 62,
+              "EndOffset": 72,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void CityAttraction.Methods.CityMethods::FindCity(System.Collections.Generic.List`1<CityAttraction.Cities.City>,System.Collections.Generic.List`1<CityAttraction.Attractions.Attraction>,System.String,System.Collections.Generic.List`1<CityAttraction.Attractions.Zoos.Zoo>,System.Collections.Generic.List`1<CityAttraction.Attractions.Museums.Museum>,System.Collections.Generic.List`1<CityAttraction.Attractions.Churches.Church>)": {
+          "Lines": {
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0
+          },
+          "Branches": [
+            {
+              "Line": 65,
+              "Offset": 145,
+              "EndOffset": 8,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 67,
+              "Offset": 115,
+              "EndOffset": 19,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 42,
+              "EndOffset": 44,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 42,
+              "EndOffset": 107,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 67,
+              "Offset": 115,
+              "EndOffset": 117,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 65,
+              "Offset": 145,
+              "EndOffset": 150,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 81,
+              "Offset": 158,
+              "EndOffset": 160,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 81,
+              "Offset": 158,
+              "EndOffset": 170,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void CityAttraction.Methods.CityMethods::ConsoleWriteAttractions(System.Collections.Generic.List`1<CityAttraction.Attractions.Attraction>,CityAttraction.Cities.City)": {
+          "Lines": {
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0
+          },
+          "Branches": [
+            {
+              "Line": 92,
+              "Offset": 130,
+              "EndOffset": 33,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 94,
+              "Offset": 61,
+              "EndOffset": 63,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 94,
+              "Offset": 61,
+              "EndOffset": 122,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 92,
+              "Offset": 130,
+              "EndOffset": 132,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void CityAttraction.Methods.CityMethods::ConsoleWriteZoos(System.Collections.Generic.List`1<CityAttraction.Attractions.Zoos.Zoo>,System.String)": {
+          "Lines": {
+            "102": 3,
+            "103": 3,
+            "104": 3,
+            "105": 33,
+            "106": 12,
+            "107": 12,
+            "108": 4,
+            "109": 24,
+            "110": 6,
+            "111": 6,
+            "112": 6,
+            "113": 1,
+            "114": 1,
+            "115": 1,
+            "116": 6,
+            "117": 4,
+            "118": 12,
+            "119": 3
+          },
+          "Branches": [
+            {
+              "Line": 105,
+              "Offset": 165,
+              "EndOffset": 33,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 12
+            },
+            {
+              "Line": 107,
+              "Offset": 56,
+              "EndOffset": 58,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 4
+            },
+            {
+              "Line": 109,
+              "Offset": 141,
+              "EndOffset": 74,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 6
+            },
+            {
+              "Line": 112,
+              "Offset": 102,
+              "EndOffset": 104,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 112,
+              "Offset": 102,
+              "EndOffset": 134,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 6
+            },
+            {
+              "Line": 109,
+              "Offset": 141,
+              "EndOffset": 143,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 4
+            },
+            {
+              "Line": 107,
+              "Offset": 56,
+              "EndOffset": 157,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 12
+            },
+            {
+              "Line": 105,
+              "Offset": 165,
+              "EndOffset": 170,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 3
+            }
+          ]
+        },
+        "System.Void CityAttraction.Methods.CityMethods::ConsoleWriteMuseums(System.Collections.Generic.List`1<CityAttraction.Attractions.Museums.Museum>,System.String)": {
+          "Lines": {
+            "122": 1,
+            "123": 1,
+            "124": 1
+          },
+          "Branches": []
+        },
+        "System.Void CityAttraction.Methods.CityMethods::NewMethod(System.Collections.Generic.List`1<CityAttraction.Attractions.Museums.Museum>,System.String)": {
+          "Lines": {
+            "127": 1,
+            "128": 1,
+            "129": 1,
+            "130": 7,
+            "131": 2,
+            "132": 2,
+            "133": 1,
+            "134": 9,
+            "135": 3,
+            "136": 3,
+            "137": 3,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "141": 3,
+            "142": 1,
+            "143": 2,
+            "144": 1
+          },
+          "Branches": [
+            {
+              "Line": 130,
+              "Offset": 207,
+              "EndOffset": 36,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 2
+            },
+            {
+              "Line": 132,
+              "Offset": 59,
+              "EndOffset": 64,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 134,
+              "Offset": 183,
+              "EndOffset": 80,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 3
+            },
+            {
+              "Line": 137,
+              "Offset": 108,
+              "EndOffset": 110,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 137,
+              "Offset": 108,
+              "EndOffset": 176,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            },
+            {
+              "Line": 134,
+              "Offset": 183,
+              "EndOffset": 185,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 132,
+              "Offset": 59,
+              "EndOffset": 199,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 130,
+              "Offset": 207,
+              "EndOffset": 212,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void CityAttraction.Methods.CityMethods::ConsoleWriteChurches(System.Collections.Generic.List`1<CityAttraction.Attractions.Churches.Church>,System.String)": {
+          "Lines": {
+            "147": 0,
+            "148": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "153": 0,
+            "154": 0,
+            "155": 0,
+            "156": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0,
+            "160": 0,
+            "161": 0
+          },
+          "Branches": [
+            {
+              "Line": 150,
+              "Offset": 167,
+              "EndOffset": 33,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 152,
+              "Offset": 56,
+              "EndOffset": 58,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 152,
+              "Offset": 56,
+              "EndOffset": 159,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 150,
+              "Offset": 167,
+              "EndOffset": 172,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\VS\\Attraction\\CityAttraction\\Data\\ListManager.cs": {
+      "CityAttraction.Data.ListManager": {
+        "System.Collections.Generic.List`1<CityAttraction.Cities.City> CityAttraction.Data.ListManager::FillCities()": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<CityAttraction.Attractions.Attraction> CityAttraction.Data.ListManager::FillAttractions()": {
+          "Lines": {
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "39": 0,
+            "40": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<CityAttraction.Attractions.Zoos.Zoo> CityAttraction.Data.ListManager::FillZoos()": {
+          "Lines": {
+            "43": 2,
+            "44": 2,
+            "45": 2,
+            "46": 2,
+            "47": 2,
+            "48": 2,
+            "49": 2,
+            "50": 2,
+            "51": 2,
+            "52": 2,
+            "53": 2,
+            "54": 2,
+            "55": 2,
+            "56": 2,
+            "57": 2,
+            "58": 2,
+            "59": 2,
+            "60": 2,
+            "61": 2,
+            "62": 2,
+            "63": 2,
+            "64": 2,
+            "65": 2,
+            "66": 2,
+            "67": 2,
+            "68": 2,
+            "69": 2,
+            "70": 2,
+            "71": 2,
+            "72": 2,
+            "73": 2,
+            "74": 2,
+            "75": 2,
+            "76": 2,
+            "77": 2,
+            "78": 2,
+            "79": 2,
+            "80": 2,
+            "81": 2,
+            "82": 2,
+            "83": 2,
+            "84": 2,
+            "85": 2,
+            "86": 2,
+            "87": 2,
+            "88": 2,
+            "89": 2,
+            "90": 2,
+            "91": 2,
+            "92": 2,
+            "93": 2,
+            "94": 2,
+            "95": 2,
+            "96": 2,
+            "97": 2,
+            "98": 2,
+            "99": 2,
+            "100": 2,
+            "101": 2,
+            "102": 2,
+            "103": 2,
+            "104": 2,
+            "105": 2,
+            "106": 2,
+            "107": 2,
+            "108": 2,
+            "109": 2,
+            "110": 2,
+            "111": 2,
+            "112": 2,
+            "113": 2,
+            "114": 2,
+            "115": 2,
+            "116": 2,
+            "117": 2,
+            "118": 2,
+            "119": 2,
+            "120": 2,
+            "121": 2,
+            "122": 2,
+            "123": 2,
+            "124": 2,
+            "125": 2,
+            "126": 2,
+            "127": 2,
+            "128": 2,
+            "129": 2,
+            "130": 2,
+            "131": 2,
+            "132": 2,
+            "133": 2,
+            "134": 2,
+            "135": 2,
+            "137": 2,
+            "138": 2
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<CityAttraction.Attractions.Museums.Museum> CityAttraction.Data.ListManager::FillMuseums()": {
+          "Lines": {
+            "142": 1,
+            "143": 1,
+            "144": 1,
+            "145": 1,
+            "146": 1,
+            "147": 1,
+            "148": 1,
+            "149": 1,
+            "150": 1,
+            "151": 1,
+            "152": 1,
+            "153": 1,
+            "154": 1,
+            "155": 1,
+            "156": 1,
+            "157": 1,
+            "158": 1,
+            "159": 1,
+            "160": 1,
+            "161": 1,
+            "162": 1,
+            "163": 1,
+            "164": 1,
+            "165": 1,
+            "166": 1,
+            "167": 1,
+            "168": 1,
+            "169": 1,
+            "170": 1,
+            "171": 1,
+            "172": 1,
+            "173": 1,
+            "174": 1,
+            "175": 1,
+            "176": 1,
+            "177": 1,
+            "178": 1,
+            "179": 1,
+            "180": 1,
+            "181": 1,
+            "182": 1,
+            "183": 1,
+            "184": 1,
+            "185": 1,
+            "186": 1,
+            "187": 1,
+            "188": 1,
+            "189": 1,
+            "190": 1,
+            "191": 1,
+            "192": 1,
+            "193": 1,
+            "194": 1,
+            "195": 1,
+            "196": 1,
+            "197": 1,
+            "198": 1,
+            "199": 1,
+            "200": 1,
+            "201": 1,
+            "202": 1,
+            "203": 1,
+            "204": 1,
+            "206": 1,
+            "207": 1
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<CityAttraction.Attractions.Churches.Church> CityAttraction.Data.ListManager::FillChurches()": {
+          "Lines": {
+            "211": 0,
+            "212": 0,
+            "213": 0,
+            "214": 0,
+            "215": 0,
+            "216": 0,
+            "217": 0,
+            "218": 0,
+            "219": 0,
+            "220": 0,
+            "221": 0,
+            "222": 0,
+            "223": 0,
+            "224": 0,
+            "225": 0,
+            "226": 0,
+            "227": 0,
+            "228": 0,
+            "229": 0,
+            "230": 0,
+            "231": 0,
+            "232": 0,
+            "233": 0,
+            "234": 0,
+            "235": 0,
+            "236": 0,
+            "237": 0,
+            "238": 0,
+            "239": 0,
+            "240": 0,
+            "241": 0,
+            "242": 0,
+            "243": 0,
+            "244": 0,
+            "246": 0,
+            "247": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\VS\\Attraction\\CityAttraction\\Cities\\City.cs": {
+      "CityAttraction.Cities.City": {
+        "System.String CityAttraction.Cities.City::get_Name()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String CityAttraction.Cities.City::get_Description()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\VS\\Attraction\\CityAttraction\\Attractions\\Attraction.cs": {
+      "CityAttraction.Attractions.Attraction": {
+        "System.String CityAttraction.Attractions.Attraction::get_City()": {
+          "Lines": {
+            "5": 24
+          },
+          "Branches": []
+        },
+        "System.String CityAttraction.Attractions.Attraction::get_Name()": {
+          "Lines": {
+            "6": 10
+          },
+          "Branches": []
+        },
+        "System.String CityAttraction.Attractions.Attraction::get_Type()": {
+          "Lines": {
+            "7": 10
+          },
+          "Branches": []
+        },
+        "System.String CityAttraction.Attractions.Attraction::get_Description()": {
+          "Lines": {
+            "8": 10
+          },
+          "Branches": []
+        },
+        "System.String CityAttraction.Attractions.Attraction::ToString()": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\VS\\Attraction\\CityAttraction\\Attractions\\Zoos\\Zoo.cs": {
+      "CityAttraction.Attractions.Zoos.Zoo": {
+        "System.Collections.Generic.IReadOnlyList`1<CityAttraction.Attractions.Zoos.Animals.Animal> CityAttraction.Attractions.Zoos.Zoo::get_Animals()": {
+          "Lines": {
+            "7": 16
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\VS\\Attraction\\CityAttraction\\Attractions\\Zoos\\Animals\\Animal.cs": {
+      "CityAttraction.Attractions.Zoos.Animals.Animal": {
+        "CityAttraction.Attractions.Zoos.Animals.Sex CityAttraction.Attractions.Zoos.Animals.Animal::get_Sex()": {
+          "Lines": {
+            "17": 18
+          },
+          "Branches": []
+        },
+        "System.Int32 CityAttraction.Attractions.Zoos.Animals.Animal::get_Age()": {
+          "Lines": {
+            "18": 18
+          },
+          "Branches": []
+        },
+        "System.String CityAttraction.Attractions.Zoos.Animals.Animal::get_FirstName()": {
+          "Lines": {
+            "19": 24
+          },
+          "Branches": []
+        },
+        "System.String CityAttraction.Attractions.Zoos.Animals.Animal::get_Species()": {
+          "Lines": {
+            "20": 18
+          },
+          "Branches": []
+        },
+        "System.String CityAttraction.Attractions.Zoos.Animals.Animal::get_OriginalZoo()": {
+          "Lines": {
+            "21": 13
+          },
+          "Branches": []
+        },
+        "System.Boolean CityAttraction.Attractions.Zoos.Animals.Animal::get_IsGuest()": {
+          "Lines": {
+            "22": 8
+          },
+          "Branches": []
+        },
+        "System.Void CityAttraction.Attractions.Zoos.Animals.Animal::.ctor(System.String)": {
+          "Lines": {
+            "24": 12,
+            "25": 12,
+            "26": 12,
+            "27": 12
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\VS\\Attraction\\CityAttraction\\Attractions\\Zoos\\Animals\\Fish.cs": {
+      "CityAttraction.Attractions.Zoos.Animals.Fish": {
+        "CityAttraction.Attractions.Zoos.Animals.Water CityAttraction.Attractions.Zoos.Animals.Fish::get_Water()": {
+          "Lines": {
+            "6": 9
+          },
+          "Branches": []
+        },
+        "System.String CityAttraction.Attractions.Zoos.Animals.Fish::ToString()": {
+          "Lines": {
+            "9": 3,
+            "10": 3,
+            "11": 3
+          },
+          "Branches": []
+        },
+        "System.Void CityAttraction.Attractions.Zoos.Animals.Fish::.ctor()": {
+          "Lines": {
+            "5": 18
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\VS\\Attraction\\CityAttraction\\Attractions\\Zoos\\Animals\\Mammal.cs": {
+      "CityAttraction.Attractions.Zoos.Animals.Mammal": {
+        "System.Int32 CityAttraction.Attractions.Zoos.Animals.Mammal::get_LifeExpectancy()": {
+          "Lines": {
+            "6": 6
+          },
+          "Branches": []
+        },
+        "System.String CityAttraction.Attractions.Zoos.Animals.Mammal::ToString()": {
+          "Lines": {
+            "9": 2,
+            "10": 2,
+            "11": 2
+          },
+          "Branches": []
+        },
+        "System.Void CityAttraction.Attractions.Zoos.Animals.Mammal::.ctor()": {
+          "Lines": {
+            "5": 12
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\VS\\Attraction\\CityAttraction\\Attractions\\Zoos\\Animals\\Reptile.cs": {
+      "CityAttraction.Attractions.Zoos.Animals.Reptile": {
+        "System.String CityAttraction.Attractions.Zoos.Animals.Reptile::get_FavoriteFood()": {
+          "Lines": {
+            "7": 3
+          },
+          "Branches": []
+        },
+        "System.String CityAttraction.Attractions.Zoos.Animals.Reptile::ToString()": {
+          "Lines": {
+            "10": 1,
+            "11": 1,
+            "12": 1
+          },
+          "Branches": []
+        },
+        "System.Void CityAttraction.Attractions.Zoos.Animals.Reptile::.ctor()": {
+          "Lines": {
+            "5": 6
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\VS\\Attraction\\CityAttraction\\Attractions\\Museums\\Museum.cs": {
+      "CityAttraction.Attractions.Museums.Museum": {
+        "System.Collections.Generic.IReadOnlyList`1<CityAttraction.Attractions.Museums.Artifacts.Artifact> CityAttraction.Attractions.Museums.Museum::get_Artifacts()": {
+          "Lines": {
+            "7": 3
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\VS\\Attraction\\CityAttraction\\Attractions\\Museums\\Artifacts\\Artifact.cs": {
+      "CityAttraction.Attractions.Museums.Artifacts.Artifact": {
+        "System.String CityAttraction.Attractions.Museums.Artifacts.Artifact::get_Name()": {
+          "Lines": {
+            "5": 8
+          },
+          "Branches": []
+        },
+        "System.String CityAttraction.Attractions.Museums.Artifacts.Artifact::get_FindPlace()": {
+          "Lines": {
+            "6": 8
+          },
+          "Branches": []
+        },
+        "System.String CityAttraction.Attractions.Museums.Artifacts.Artifact::get_FindWhen()": {
+          "Lines": {
+            "7": 8
+          },
+          "Branches": []
+        },
+        "System.Boolean CityAttraction.Attractions.Museums.Artifacts.Artifact::get_IsTemporaryExhibition()": {
+          "Lines": {
+            "8": 5
+          },
+          "Branches": []
+        },
+        "System.DateTime CityAttraction.Attractions.Museums.Artifacts.Artifact::get_OnDisplayTill()": {
+          "Lines": {
+            "9": 2
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\VS\\Attraction\\CityAttraction\\Attractions\\Museums\\Artifacts\\Jewelry.cs": {
+      "CityAttraction.Attractions.Museums.Artifacts.Jewelry": {
+        "System.String CityAttraction.Attractions.Museums.Artifacts.Jewelry::get_Whose()": {
+          "Lines": {
+            "5": 2
+          },
+          "Branches": []
+        },
+        "System.String CityAttraction.Attractions.Museums.Artifacts.Jewelry::ToString()": {
+          "Lines": {
+            "7": 1,
+            "8": 1,
+            "9": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\VS\\Attraction\\CityAttraction\\Attractions\\Museums\\Artifacts\\Painting.cs": {
+      "CityAttraction.Attractions.Museums.Artifacts.Painting": {
+        "System.String CityAttraction.Attractions.Museums.Artifacts.Painting::get_Style()": {
+          "Lines": {
+            "5": 3
+          },
+          "Branches": []
+        },
+        "System.String CityAttraction.Attractions.Museums.Artifacts.Painting::ToString()": {
+          "Lines": {
+            "7": 1,
+            "8": 1,
+            "9": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\VS\\Attraction\\CityAttraction\\Attractions\\Museums\\Artifacts\\Statue.cs": {
+      "CityAttraction.Attractions.Museums.Artifacts.Statue": {
+        "System.String CityAttraction.Attractions.Museums.Artifacts.Statue::get_MadeOf()": {
+          "Lines": {
+            "5": 3
+          },
+          "Branches": []
+        },
+        "System.String CityAttraction.Attractions.Museums.Artifacts.Statue::ToString()": {
+          "Lines": {
+            "7": 1,
+            "8": 1,
+            "9": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\VS\\Attraction\\CityAttraction\\Attractions\\Churches\\Church.cs": {
+      "CityAttraction.Attractions.Churches.Church": {
+        "System.String CityAttraction.Attractions.Churches.Church::get_Style()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String CityAttraction.Attractions.Churches.Church::get_StyleDetails()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.String CityAttraction.Attractions.Churches.Church::get_Builder()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.String CityAttraction.Attractions.Churches.Church::get_Religion()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
