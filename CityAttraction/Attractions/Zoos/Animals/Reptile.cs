@@ -1,6 +1,6 @@
 ﻿namespace CityAttraction.Attractions.Zoos.Animals
 {
-    class Reptile : Animal
+    public class Reptile : Animal
     {
         public Reptile() : base(nameof(Reptile)) { }
 

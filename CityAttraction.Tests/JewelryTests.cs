@@ -1,5 +1,4 @@
 using CityAttraction.Attractions.Museums;
-using CityAttraction.Data;
 using FluentAssertions;
 
 namespace CityAttraction.Tests.Tests
@@ -11,7 +10,7 @@ namespace CityAttraction.Tests.Tests
         {
             TextWriter stringWriter = new StringWriter();
             Console.SetOut(stringWriter);
-            List<Museum> museums = ListManager.FillMuseums();
+            List<Museum> museums = Museum.FillMuseums();
 
             MuseumMethods.ConsoleWriteMuseums(museums, "Budapest");
 

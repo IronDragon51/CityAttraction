@@ -13,7 +13,11 @@ namespace CityAttraction
         {
             Fill.FillLists(out List<City> cities, out List<Attraction> attractions, out List<Zoo> zoos, out List<Museum> museums, out List<Church> churches);
 
-            string choosenCity = CityMethods.ChooseCity(cities);
+            string choosenCity = "";
+            while (choosenCity != "")
+            {
+                choosenCity = CityMethods.ChooseCity(cities);
+            }
             CityMethods.ShowCityDescription(cities, attractions, choosenCity, zoos, museums, churches);
         }
     }

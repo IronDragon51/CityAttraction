@@ -1,5 +1,6 @@
 ﻿namespace CityAttraction.Attractions.Zoos.Animals
 {
+
     public enum Sex
     {
         Male,
@@ -25,5 +26,7 @@
         {
             Species = species;
         }
+
+
     }
 }

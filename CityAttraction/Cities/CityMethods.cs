@@ -29,13 +29,14 @@ namespace CityAttraction.Cities
 
                 if (!cityLikeThisExists)
                 {
-                    Program.Main();
+                    return "";
                 }
                 return input;
             }
 
             return "";
         }
+
 
         public static void ShowCityDescription(List<City> cities, List<Attraction> attractions, string choosenCity, List<Zoo> zoos, List<Museum> museums, List<Church> churches)
         {
@@ -50,6 +51,7 @@ namespace CityAttraction.Cities
                 Program.Main();
             }
         }
+
 
         public static void FindCity(List<City> cities, List<Attraction> attractions, string choosenCity, List<Zoo> zoos, List<Museum> museums, List<Church> churches)
         {
@@ -72,12 +74,8 @@ namespace CityAttraction.Cities
 
             if (!found)
             {
-                _ = ChooseCity(cities);
+                Program.Main();
             }
         }
-
-
-
-
     }
 }
